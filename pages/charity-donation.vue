@@ -6,15 +6,26 @@
     <div class="section details">
       <!-- CONTENT START -->
       <h1 class="title">Charity Donations</h1>
-      <p>Instead of flowers we would like to suggest people make a donation to one of the following charities</p>
-      <h2>Marie Curie</h2>
-      <p>We are so grateful to <em>Marie Curie</em> for their support and making sure their patients are as 
-        comfortable and peaceful as possible when the end came.
+      <p>We would like to suggest people make a donations through the following channels</p>
+
+      <h2>Mobile Money (M-PESA)</h2>
+
+      <p>
+      <b>Name</b> : Mutugi Mutegi <br><br>
+   
+      <b>Phone No </b> : 0717555103
       </p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Marie Curie</a>
-      <h2>Make a Wish</h2>
-      <p><em>Make A Wish</em>'s goal of giving joy to children during a terrible time is something that would be a fitting tribute.</p>
-      <a class="button" target="_blank" rel=”noopener” href="https://www.justgiving.com/fundraising/">Donate to Make a Wish</a>
+
+      or <br>
+
+      <h2>KCB BANK </h2>
+
+    <P>
+
+     <b>Account Name</b> : Evaclaire Munyika Wamitu <br/> <br/>
+     <b>Account Number</b> : 1223893472 <br/> <br/>
+     <b>M-Pesa Paybill</b>: 522522 <br/> <br/>
+    </P>
       <!-- CONTENT END -->
     </div>
   </div>
