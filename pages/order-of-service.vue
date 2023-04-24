@@ -5,35 +5,44 @@
     </div>
     <div class="section details">
       <!-- CONTENT START -->
-      <h1 class="title">Order of service</h1>
-      <p><em>Tuesday 25th April 2023</em>  Extract Content from Eulogy.</p>
-      <p class="highlight">A Bit of important text that you want to stand out</p>
-      <h2>Service <span>10:30am</span></h2>
+      <h1 class="title highlight">Order of service</h1>
+      <p><em>Tuesday 25th April 2023</em></p>
+    
+  
       <ul class="fa-ul">
-        <ListItem>Service starts at 10:30am at Church Address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Song: Goodness of God</ListItem>
-        <ListItem>Tributes - Family &amp; Friends</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Prayer of Commendation</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
+        <ListItem>8:00 AM - Assemble at Montezuma Monalisa Funeral Home</ListItem>
+        <ListItem>9:00 AM - Cortege leaves Montezuma Monalisa Funeral Home</ListItem>
+        <ListItem>9:30 AM - Arrival at family home in Kithini, Machakos</ListItem>
+        <ListItem>10:00 AM - Beginning of funeral service </ListItem>
+    
     
       </ul>
-      <h2>Burial <span>12:00pm</span></h2>
+      <h2><span>FUNERAL SERVICE</span></h2>
       <ul class="fa-ul">
-        <ListItem>Service starts at 12pm at Crematorium address</ListItem>
-        <ListItem>Entrance music: And Can It Be</ListItem>
-        <ListItem>Scripture reading - Psalm 61 v1-4</ListItem>
-        <ListItem>Welcome &amp; Opening Prayer</ListItem>
-        <ListItem>Tribute</ListItem>
-        <ListItem>Few moments of quiet</ListItem>
-        <ListItem>Short message</ListItem>
-        <ListItem>Committal</ListItem>
-        <ListItem>Closing prayer &amp; Grace blessing</ListItem>
-     
+        <ListItem>Call to worship</ListItem>
+        <ListItem>Pravers</ListItem>
+        <ListItem> Eulogy</ListItem>
+
+     <h2><span>Tributes</span></h2>
+
+        <ListItem>Tribute from Mum and Dad</ListItem>
+        <ListItem>Tribute from Sister</ListItem>
+        <ListItem>Tribute from Brother Ben</ListItem>
+        <ListItem>Tributefrom Brother Ken</ListItem>
+        <ListItem>Tribute from Niece Ellewanah</ListItem>
+        <ListItem>Tribute from friends</ListItem>
+
+         <h2><span></span></h2>
+
+         <ListItem>Condolence speeches</ListItem>
+         <ListItem>Praise Session</ListItem>
+         <ListItem>Hymns</ListItem>
+         <ListItem>Sermon</ListItem>
+         <ListItem>Hymn</ListItem>
+         <ListItem>Pravers</ListItem>
+         <ListItem>Vote of thanks</ListItem>
+
+          <h2><span>PROCESSION TO GRAVE SITE</span></h2>
       </ul>
       <!-- CONTENT END -->
     </div>
