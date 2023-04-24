@@ -59,11 +59,11 @@ For now, rest well until we meet again my dearest angel.
 </p><br/><br/>
 
 <p class="title">From Brother- KEN</p>
+<p>
 Dear Lizzy,<br/>
 I can't believe that it's been almost six years since I met you through Eva, my wife. It honestly feels longer thanforever. You were always warm and welcoming to anyone close and dear to your family, through Eva, I became your big brother. I will cherish your warm smile whenever Ellie smiles, I know she will dearly miss you and start asking of you soon. We shall keep your memory alive and always remind her of 'aunty Lizzy' (as she fondly referred to you).<br/> She has lost the benefit of your mentorship and girl talk, which I suspect had already begun. You have left in me a solid lesson to always celebrate all milestones,like nothing else matters. You remembered everyone's birth- days and made sure to bring all of us together. Ellie celebrated her birthday on 2nd April this year, and that's the only family event that you were not person- ally involved, your absence was loud. I know that heaven has gained an angel, with great recommendations from us, your family. We shall meet again and have one more bible verse trivia, I know I was horrible at it, but you promised that with time I will get better, game on sis.
 Rest well lizzy. <br/>
 Ken.
-<p>
   
 </p><br/><br/>
 
