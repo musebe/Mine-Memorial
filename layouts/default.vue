@@ -320,4 +320,18 @@ ul {
 .svg-inline--fa.fa-fw {
     width: 1.25em;
 }
+
+.responsive-map-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.map-wrapper{
+  max-width:500px ;
+}
+.googlemap {
+  width: 200%;
+}
 </style>

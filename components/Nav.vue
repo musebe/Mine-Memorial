@@ -16,12 +16,6 @@
           
           </li>
 
-          <li><NuxtLink to="/hymns"><span class="icon">
-          <svg fill="#f41b8ed9" viewBox="0 0 32.001 32.001" xmlns="http://www.w3.org/2000/svg"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <g id="Group_5" data-name="Group 5" transform="translate(-670.002 -465.694)"> <circle id="Ellipse_4" data-name="Ellipse 4" cx="6" cy="6" r="6" transform="translate(670.002 485.695)"></circle> <circle id="Ellipse_5" data-name="Ellipse 5" cx="5" cy="5" r="5" transform="translate(692.002 483.695)"></circle> <rect id="Rectangle_65" data-name="Rectangle 65" width="4" height="15.998" transform="translate(670.002 474.696)"></rect> <rect id="Rectangle_66" data-name="Rectangle 66" width="4" height="15.998" transform="translate(692.002 472.696)"></rect> <path id="Path_396" data-name="Path 396" d="M692,465.694l-18,2a4,4,0,0,0-4,4v4a4,4,0,0,0,4,4l18-2a4,4,0,0,0,4-4v-4A4,4,0,0,0,692,465.694Zm0,8-18,2v-4l18-2Z"></path> </g> </g></svg>
-          </span><span class="menu"><span></span>Hymnes</span></NuxtLink>
-          
-          </li>
-
         <li><NuxtLink to="/tribute"><span class="icon">
           <svg viewBox="-0.32 0 41.633 41.633" xmlns="http://www.w3.org/2000/svg" fill="#000000"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path id="word" d="M525.849,346.772a2.763,2.763,0,0,1-2.375,2.016,150.4,150.4,0,0,1-20.195.918l-6.378,5.513h-.534a1.695,1.695,0,0,1-3.329,0h-.088l0-6.088c-1.15-.1-2.3-.212-3.449-.342a2.763,2.763,0,0,1-2.375-2.016,92.124,92.124,0,0,1,0-28.833,2.763,2.763,0,0,1,2.375-2.016,150.236,150.236,0,0,1,33.97,0,2.763,2.763,0,0,1,2.375,2.016A92.124,92.124,0,0,1,525.849,346.772Zm-26.63-16.8A2.735,2.735,0,1,0,502,332.7,2.758,2.758,0,0,0,499.219,329.969Zm13.875,0a2.735,2.735,0,1,0,2.781,2.734A2.758,2.758,0,0,0,513.094,329.969Z" transform="translate(-485.994 -314.961)" fill="#f41b8ed9"></path> </g></svg>
           </span><span class="menu"><span></span>Tributes</span></NuxtLink>
@@ -36,7 +30,7 @@
 
            <li><NuxtLink to="/maps"><span class="icon">
           <svg viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg" fill="none"><g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"><path stroke="#f41b8ed9" stroke-width="12" d="M96 22a51.88 51.88 0 0 0-36.77 15.303A52.368 52.368 0 0 0 44 74.246c0 16.596 4.296 28.669 20.811 48.898a163.733 163.733 0 0 1 20.053 28.38C90.852 163.721 90.146 172 96 172c5.854 0 5.148-8.279 11.136-20.476a163.723 163.723 0 0 1 20.053-28.38C143.704 102.915 148 90.841 148 74.246a52.37 52.37 0 0 0-15.23-36.943A51.88 51.88 0 0 0 96 22Z"></path><circle cx="96" cy="74" r="20" stroke="#f41b8ed9" stroke-width="12"></circle></g></svg>
-          </span><span class="menu"><span></span> Location</span></NuxtLink>
+          </span><span class="menu"><span></span>Location</span></NuxtLink>
           
           </li>
       </ul>
